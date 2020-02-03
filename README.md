@@ -1,3 +1,5 @@
+![OneBitFood](https://github.com/nemuba/onebitfood-client/blob/master/src/assets/images/logo-v1-horizontal.png)
+
 # OneBitFood - API criada para MVP desenvolvida baseada no IFood.
 
 Essa API foi desenvolvida no curso da 5ª Semana FullStack criada pela [onebitcode](https://www.onebitcode.com) .
